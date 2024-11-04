@@ -6,5 +6,13 @@
     "role": "user",
     "followers": [],
     "following": []
+  },
+  {
+    "id": 1730734166346,
+    "username": "oneUser",
+    "password": "$2a$10$sX/hXWDxvbM.SRSXzu2gb.R2UTSG9W3tziTly.ZGJJ5G0COH6vA8O",
+    "role": "user",
+    "followers": [],
+    "following": []
   }
 ]
