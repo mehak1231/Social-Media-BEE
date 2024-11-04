@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1730729153119,
+    "userId": 1730728114813,
+    "content": "Updated post content of sample post",
+    "likes": 0,
+    "comments": [],
+    "timestamp": "2024-11-04T14:05:53.119Z"
+  },
+  {
+    "id": 1730729205629,
+    "userId": 1730728114813,
+    "content": "Hii everyone this is the first official post🌿💕.",
+    "likes": 1,
+    "comments": [],
+    "timestamp": "2024-11-04T14:06:45.629Z"
+  },
+  {
+    "id": 1730730433735,
+    "userId": 1730728114813,
+    "content": "Today we are going to start a new social media project.... Excited for it🙂‍↔️✨",
+    "likes": 0,
+    "comments": [],
+    "timestamp": "2024-11-04T14:27:13.735Z"
+  },
+  {
+    "id": 1730730485745,
+    "userId": 1730728114813,
+    "content": "Beautiful day.....🌿🍂",
+    "likes": 2,
+    "comments": [],
+    "timestamp": "2024-11-04T14:28:05.745Z"
+  }
+]
